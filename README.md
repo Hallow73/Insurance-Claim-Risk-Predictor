@@ -1,2 +1,30 @@
-# Insurance-Claim-Risk-Predictor
-Machine learning project predicting automobile insurance claim likelihood using Decision Trees, Random Forest, and XGBoost. Includes exploratory data analysis, feature engineering, class imbalance handling, model evaluation, and feature importance analysis.
+# Auto Insurance Claim Prediction
+
+A machine learning project that predicts the likelihood of an automobile insurance claim using historical insurance data.
+
+## Libraries
+- Python
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- Scikit-learn
+- XGBoost
+- Streamlit 
+
+## Machine Learning Models
+- Decision Tree
+- Random Forest
+- XGBoost
+
+## Project Workflow
+1. Data cleaning and preprocessing
+2. Exploratory data analysis and visualization
+3. Feature engineering
+4. Handling class imbalance
+5. Training and evaluating classification models
+6. Comparing model performance and feature importance
+
+## Objective
+Explore factors associated with insurance claims and develop a classification model to estimate claim likelihood.
+
+## Notebook
+See `insurance_claim_prediction.ipynb` for the analysis and machine learning implementation.
