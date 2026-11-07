@@ -31,7 +31,7 @@ See `insurance_claim_prediction.ipynb` for the analysis and machine learning imp
 
 ## Dataset
 This project uses the Sample Insurance Claim Prediction Dataset available on Kaggle.
-Link: https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset
-Source: Kaggle
-Dataset: Sample Insurance Claim Prediction Dataset
+- Link: https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset
+- Source: Kaggle
+- Dataset: Sample Insurance Claim Prediction Dataset
 
