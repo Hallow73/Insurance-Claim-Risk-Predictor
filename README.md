@@ -28,3 +28,10 @@ Explore factors associated with insurance claims and develop a classification mo
 
 ## Notebook
 See `insurance_claim_prediction.ipynb` for the analysis and machine learning implementation.
+
+## Dataset
+This project uses the Sample Insurance Claim Prediction Dataset available on Kaggle.
+Link: https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset
+Source: Kaggle
+Dataset: Sample Insurance Claim Prediction Dataset
+
